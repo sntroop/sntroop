@@ -29,6 +29,13 @@ I am a versatile developer focused on building scalable Telegram ecosystems, hig
 * **High-Load Forum Crawler** – Scraped and indexed **31,000,000+ posts** into a searchable ClickHouse database.
 * **TeleOpen & Holocron AI** – Comprehensive AI service marketplace and ecosystem for Telegram.
 
+### 🛠 My Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=ClickHouse&logoColor=black)
+
 
 ### Connect with me
 * **Telegram:** @sntroop
